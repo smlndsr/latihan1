@@ -1,0 +1,16 @@
+body{
+    background-color: seagreen;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: whitesmoke;
+    text-align: center;
+}
+table,th, td {
+    border: 1px solid whitesmoke;
+    font-weight: 200;
+    width: 50%;
+    color: whitesmoke;
+}
